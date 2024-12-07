@@ -1,0 +1,6 @@
+@SdCustomer_HostAddress = http://localhost:5276
+
+GET {{SdCustomer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
